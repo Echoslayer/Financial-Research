@@ -8,8 +8,8 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/Echoslayer/Digital-Image-Processing",
-      "Github Base": "https://github.com/Echoslayer",
+      "GitHub Repository": "https://github.com/Echoslayer/Financial-Research",
+      "My Github": "https://github.com/Echoslayer",
     },
   }),
 }
